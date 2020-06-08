@@ -4,7 +4,7 @@ import scales from './scales.json'
 
 //  ADD WAY TO CAPITALIZE EACH LETTER SEPARATED BY -
 //  ADD SCALE DIAGRAMS FOR THE CAGED SYSTEM
-//  ADD A CHORDS THAT EACH SCALE MIGHT WORK
+//  ADD SUGGESTED CHORD PROGRESSIONS
 
 const options = Object.entries(scales).map(scale => {
   const [label, value] = scale
